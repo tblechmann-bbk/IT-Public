@@ -33,13 +33,13 @@
 
 | Kürzel | Name | Beschreibung | Anzahl | Benutzer |
 | -------|------|--------------|------------|------------------------------|
-| A001  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| A002  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| A003  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| A004  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| A005  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| A006  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
-| ...  | *Der Name der Anwendung * | *Wie oft wird die Anwendung eingesetzt?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A001  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A002  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A003  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A004  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A005  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| A006  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
+| ...  | *Der Name der Anwendung* | *Was ist das für eine Anwendung ?* | *Kerngeschäft / Unterstützender Prozess* | *Frau Mustermann / Aller Mitarbeiter / Team XY* |
 
 ### Zuordnung der Geschäftsprozesse zur Anwendung
 
@@ -273,7 +273,7 @@ Im folgenden wird die Risikoanalyse für das Asset *X00Y* durchgeführt, dieses 
 Für *Name des Assets* sind die Bausteine *ABC.X.Y Name des Bausteins, ABC.X.Z Name des Bausteins, ... relevant. Darin werden die folgenden Gefährdungen betrachtet (Grundwerte: C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit):
 
 
-| Gefährdung | Betroffene Grundwerte |         |
+| Gefährdung | Betroffene Grundwerte |
 |-----------|--------|
 | *G 0.X Name der Gefährdung* | *C,I,A*   |
 | *...* | *...*   |
@@ -367,7 +367,6 @@ Als Ergebnis aus IT-Grundschutz-Check und der Entscheidungen zur Risikoplan ergi
 
 > Verfassen sie einen kurzen Bericht (etwa 250 Wörter), in der Sie Ihren Eindruck der GAB GmbH festhalten.
 >
-> Was ist das Geschäftsmodell der GAB-GmbH ?
 > 
 > Was ist Ihnen positiv aufgefallen ?
 > 
