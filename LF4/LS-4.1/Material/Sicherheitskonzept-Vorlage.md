@@ -18,7 +18,7 @@
 
 ### Erfassen der Geschäftsprozesse
 
-> Listen Sie **2** Geschäftsprozesse des Unternehmens auf.
+> Wählen Sie **2** Geschäftsprozesse des Unternehmens aus Finanzbuchhaltung​​,  Softwareentwicklung​​ oder Adressmanagement​
 
 | Kürzel | Name | Beschreibung | Prozessart | Verantwortlicher Mitarbeiter |
 | -------|------|--------------|------------|------------------------------|
