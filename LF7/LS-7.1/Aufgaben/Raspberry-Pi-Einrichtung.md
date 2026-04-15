@@ -14,14 +14,6 @@
 ### Hostname
 - Hostname: rpiXX (XX Koffernummer 01 bis 24)
 ### Benötigte Schnittstellen
-- SSH, VNC, Eindraht-Bus (One-Wire)
-### Benötigte Pakete
-#### PiGpio
-- Info: https://abyz.me.uk/rpi/pigpio/
-- Pakete: pigpiod pigpio pigpio-tools
-- Zusatz: Der pigpio Deamon soll immer automatisch gestartet werden
-#### Mosquitto
-- Info: https://mosquitto.org/
-- Pakete: mosquitto mosquitto-clients
+- SSH, VNC
 ### Update des Systems
 - System auf den aktuellen Stand bringen
