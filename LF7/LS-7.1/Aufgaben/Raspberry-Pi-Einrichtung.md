@@ -5,6 +5,7 @@
 - Lan-Kabel
 - Tastatur
 - Maus
+- DS1820 Temperatursensor
 ## Anforderungen zur Einrichtung
 ### Aktuelles Image nutzen
 - Öffentlicher Link zum Image: https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-12-04/2025-12-04-raspios-trixie-armhf.img.xz
