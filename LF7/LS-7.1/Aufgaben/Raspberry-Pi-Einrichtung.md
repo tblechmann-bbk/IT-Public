@@ -19,3 +19,7 @@
 - SSH, VNC
 ### Update des Systems
 - System auf den aktuellen Stand bringen
+
+# Plan erstellen
+
+Wie wollt Ihr den Temperatursensor auslesen und über mqtt an rpi01 übertragen ?
