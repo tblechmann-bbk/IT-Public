@@ -7,8 +7,8 @@
 - Maus
 ## Anforderungen zur Einrichtung
 ### Aktuelles Image nutzen
-- Image: 2025-12-04-raspios-trixie-armhf.img.xz
-- Bitte über http://pc401lehrer:8080/2025-12-04-raspios-trixie-armhf.img.xz runterladen
+- Öffentlicher Link zum Image: https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-12-04/2025-12-04-raspios-trixie-armhf.img.xz
+- Am besten im Raumnetz über http://pc401lehrer:8080/2025-12-04-raspios-trixie-armhf.img.xz runterladen
 ### Nutzernamen
 - Username: piadmin
 - Passwort: Klassenname in Kleinbuchstaben verwenden (z.b. 23-it3)
