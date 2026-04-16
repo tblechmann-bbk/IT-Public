@@ -7,7 +7,7 @@
 - Maus
 ## Anforderungen zur Einrichtung
 ### Aktuelles Image nutzen
-- Image: https://downloads.raspberrypi.com/raspios_armhf/images/raspios_armhf-2025-12-04/2025-12-04-raspios-trixie-armhf.img.xz
+- Image: 2025-12-04-raspios-trixie-armhf.img.xz
 - Bitte über http://pc401lehrer:8080/2025-12-04-raspios-trixie-armhf.img.xz runterladen
 ### Nutzernamen
 - Username: piadmin
