@@ -2,6 +2,8 @@ Auf dem Host pc401lehrer läuft ein MQTT Broker​
 
 Mithilfe der Kommandozeilen-Tools `mosquitto_sub` und `mosquitto_pub` lassen sich Nachrichten schicken und empfangen.​
 
+Recherchiere den Umgang mit dem Konsolentool und bearbeite die folgenden Aufgaben:
+
 ## Aufgabe 1 – Topics & Wildcards
 Ziel: Topic-Strukturen verstehen und Wildcards sicher anwenden.
 
