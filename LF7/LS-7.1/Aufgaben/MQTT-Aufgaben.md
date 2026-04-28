@@ -9,7 +9,9 @@ Ziel: Topic-Strukturen verstehen und Wildcards sicher anwenden.
 
 Aufgaben:
 1. Wählt ein gemeinsames Topic-Schema.
-2. Subscribed mit unterschiedlichen Clients und testet Wildcards mit verschiedenen Mustern.
+2. Subscribed auf einem Gerät auf dem Topic
+3. Published eine Nachricht auf der Topic auf einem anderen Gerät
+4. Testet Wildcards mit verschiedenen Mustern.
 
 Frage:
 Wie werden `+` und `#` verwendet ?
