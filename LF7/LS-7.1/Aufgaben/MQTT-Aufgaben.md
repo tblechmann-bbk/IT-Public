@@ -1,6 +1,6 @@
 Auf dem Host pc401lehrer läuft ein MQTT Broker​
 
-Mithilfe der Kommandozeilen-Tools `mosquitto_sub` und `mosquitto_pub` lassen sich Nachrichten schicken und empfangen.​
+Mithilfe der Kommandozeilen-Tools `mosquitto_sub` und `mosquitto_pub` auf den Schueler-PCS lassen sich Nachrichten schicken und empfangen.​
 
 Recherchiere den Umgang mit dem Konsolentool und bearbeite die folgenden Aufgaben:
 
