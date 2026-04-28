@@ -11,11 +11,10 @@ Aufgaben:
 1. Wählt ein gemeinsames Topic-Schema.
 2. Subscribed auf einem Gerät auf dem Topic
 3. Published eine Nachricht auf der Topic auf einem anderen Gerät
-4. Testet Wildcards mit verschiedenen Mustern.
+4. Testet die Wildcards `+` und `#` mit verschiedenen Mustern.
 
 Frage:
-Wie werden `+` und `#` verwendet ?
-Welche praktischen Beispiele fallen Ihnen für die Verwendung ein ?
+Welche praktischen Beispiele fallen Ihnen für die Verwendung von Wildcards ein ?
 
 ---
 
@@ -32,7 +31,7 @@ Wozu kann Retained sinnvoll sein ?
 
 ---
 
-## Augabe 3 – Last Will
+## Aufgabe 3 – Last Will
 Ziel: Last Will konfigurieren und das Verhalten bei unerwartetem Client-Ausfall beobachten.
 
 Aufgaben:
