@@ -47,4 +47,7 @@ Arbeitsaufträge:
 1. Benenne die die Bedeutung der unterschiedlichen QoS Level 0/1/2.
 2. Entwickle ein oder mehrere Szenarien, in dem die unterschiedlichen QoS Level benutzt werden sollten.
 
+Bonus:
+3. Entwickle eine Idee, um auch die QoS Level praktisch in unserer Umgebung zu testen. 
+
 ---
