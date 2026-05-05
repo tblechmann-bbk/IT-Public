@@ -12,7 +12,7 @@ Aufgaben:
 2. Subscribed auf einem Gerät auf dem Topic
 3. Published eine Nachricht auf der Topic auf einem anderen Gerät
 4. Testet die Wildcards `+` und `#` mit verschiedenen Mustern.
-5. Entwickle ein sinnvolles Szenario, in dem "Retained Messages" verwendet werden sollten.
+5. Entwickle ein sinnvolles Szenario, in dem "Wildcards" verwendet werden sollten.
 
 ---
 
