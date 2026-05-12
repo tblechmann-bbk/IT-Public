@@ -1,3 +1,8 @@
+# Links / Ressourcen
+
+- https://smarthome-training.com/de/was-ist-node-red/
+- https://dashboard.flowfuse.com/getting-started
+
 # Aufgabe 1 - Co2 Level
 
 ## Anforderung
