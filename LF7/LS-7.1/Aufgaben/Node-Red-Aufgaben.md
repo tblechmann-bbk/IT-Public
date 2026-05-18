@@ -3,6 +3,21 @@
 - https://smarthome-training.com/de/was-ist-node-red/
 - https://dashboard.flowfuse.com/getting-started
 
+# Infos
+
+- Auf dem Lehrerplatz läuft ein MQTT-Server, auf dem regelmäßig Daten zum Raum 401 gepublished werden.
+- Mithilfe der Aufgaben soll ein Grundverständnis von Node-Red 
+
+# Aufgabe 0 - Debugausgaben der MQTT Daten
+
+- Erstelle eine MQTT In Node, welcher mit dem Lehreplatz als Host konfiguriert ist.
+- Subscribe zunächst auf das Topic #
+- Verbinde den MQTT In Node mit einem Debugknoten und aktiviere die Ausgabe in der Debugkonsole.
+
+Du solltest jetzt in der Debugkonsole (Tab mit dem Käfer in der rechten Menuleiste) die ankommenden Nachrichten sehen.
+
+Die Nachrichten, die verschickt werden sind im JSON-Format, was es erlaubt auf einzelne Attribute im Verlauf des Node-Red Flows zuzugreifen.
+
 # Aufgabe 1 - Co2 Level
 
 ## Anforderung
