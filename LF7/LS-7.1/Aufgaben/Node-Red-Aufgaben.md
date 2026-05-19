@@ -6,7 +6,11 @@
 # Infos
 
 - Auf dem Lehrerplatz *pc401lehrer* läuft ein MQTT-Server, auf dem regelmäßig Daten zum Raum 401 gepublished werden.
-- Mithilfe der Aufgaben soll ein Grundverständnis von Node-Red 
+- Mithilfe der Aufgaben soll ein Grundverständnis von Node-Red erzeugt werden
+
+# Plugin Installation
+
+- Für das Dashboard muss das Flow Fuse Dashboard 2.0 als Modul installiert werden
 
 # Aufgabe 0 - Debugausgaben der MQTT Daten
 
