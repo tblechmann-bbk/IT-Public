@@ -5,12 +5,12 @@
 
 # Infos
 
-- Auf dem Lehrerplatz läuft ein MQTT-Server, auf dem regelmäßig Daten zum Raum 401 gepublished werden.
+- Auf dem Lehrerplatz *pc401lehrer* läuft ein MQTT-Server, auf dem regelmäßig Daten zum Raum 401 gepublished werden.
 - Mithilfe der Aufgaben soll ein Grundverständnis von Node-Red 
 
 # Aufgabe 0 - Debugausgaben der MQTT Daten
 
-- Erstelle eine MQTT In Node, welcher mit dem Lehreplatz als Host konfiguriert ist.
+- Erstelle eine MQTT In Node, welcher mit *pc401lehrer* als Host konfiguriert ist.
 - Subscribe zunächst auf das Topic #
 - Verbinde den MQTT In Node mit einem Debugknoten und aktiviere die Ausgabe in der Debugkonsole.
 
