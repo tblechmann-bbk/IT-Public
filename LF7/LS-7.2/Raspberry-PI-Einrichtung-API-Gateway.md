@@ -17,4 +17,4 @@
 - SSH, VNC
 ### Benötigte Software
 - Node Red
-- Mosquitto
+- Mosquitto, Mosquitto-Clients
