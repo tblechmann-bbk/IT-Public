@@ -4,12 +4,15 @@
 - Example-Flow: https://flows.nodered.org/flow/81f1c936430d822621c8fcdcf0475ff9/in/gzu0bJiFfpEb
 - opc.tcp://milo.digitalpetri.com:62541/milo (anonymous)
 Sucht die Daten zu Demo.Alarms.Plant.PowerHouse.P-101.Vibration und gebt die Vibrationsdaten als Debug-Nachricht aus
-
 2. Schickt die Vibrationsdaten über einen Websocket raus und zeigt die Daten in der Webapp da. (Ihr könne localhost.run als SSH-Tunnel für den Websocket nutzen)
-
-3. Schickt die Daten auch über MQTT über den öffentlichen Broker 
-broker.hivemq.com auf einer für euch passenden Topic
-4. Stellt die Daten in eurer App mithilfe von MQTT da
-
-5. Speichert die Daten ein einer Datenbank und erstellt einen REST Endpunkt, der euch die letzten 5 Minuten der Daten liefert.
-6. Zeigt die Historischen Daten in eurer Webapp an
+3. Schickt die Daten auch über MQTT über den öffentlichen Broker broker.hivemq.com auf der Topic /bbk-lf7/<kistennummer>/power-house/vibration
+3.1 "horcht" auch auf fremden Topics der anderen Gruppen, gibt es Unterschiede ?
+4. Abonniert die Daten über MQTT in eurer APP und stellt sie als Text dar.
+5. Speichert die Daten ein einer relationalen Datenbank und erstellt einen REST Endpunkt, der euch den Durchschnitt der letzten 5 Minuten zurückgibt
+5.1 Notiert das/die Relationsschema
+5.2 Notiert die SQL Query, um die Daten abzugreifen
+6. Erstellt einen weiteren REST Endpunkt, der euch die Daten der letzten 5 Minuten liefert.
+7. Zeigt die Historischen Daten in eurer Webapp an (zb. mit chart.js)
+8. Welche Datenmengen fallen bei euch an einem Tag an Messwerten an ?
+8.1 Wie lassen sich die Datenmengen reduzieren ?
+9. Erstellt auch in Node Red ein Dashboard mit dem aktuellen Messwert mithilfe von FlowFuse Node-RED Dashboard 2.0
