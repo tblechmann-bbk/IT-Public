@@ -4,6 +4,8 @@
 - Example-Flow: https://flows.nodered.org/flow/81f1c936430d822621c8fcdcf0475ff9/in/gzu0bJiFfpEb
 - opc.tcp://milo.digitalpetri.com:62541/milo (anonymous)
 Sucht die Daten zu Demo.Alarms.Plant.PowerHouse.P-101.Vibration und gebt die Vibrationsdaten als Debug-Nachricht aus
+
+Link zu einer Webbasierten Client Anwendung für OPC UA: https://opcua.twinedgeai.com/ dort lässt sich die Node Id zu den Vibrationsdaten auslesen.
 2. Schickt die Vibrationsdaten über einen Websocket raus und zeigt die Daten in der Webapp da. (Ihr könne localhost.run als SSH-Tunnel für den Websocket nutzen)
 3. Schickt die Daten auch über MQTT über den öffentlichen Broker broker.hivemq.com auf der Topic /bbk-lf7/<kistennummer>/power-house/vibration
   
